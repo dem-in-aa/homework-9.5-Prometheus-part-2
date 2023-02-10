@@ -9,17 +9,11 @@ Prometheus part 2
 
 Создайте файл с правилом оповещения, как в лекции, и добавьте его в конфиг Prometheus.
 
-![](img/1.png)
-![](img/2.png)
-![](img/3.png)
-![](img/4.png)
 ![](img/5.png)
 ![](img/6.png)
 ![](img/7.png)
 ![](img/8.png)
 ![](img/9.png)
-![](img/10.png)
-![](img/11.png)
 ![](img/12.png)
 ![](img/13.png)
 
@@ -33,7 +27,13 @@ Prometheus part 2
 
 Установите Alertmanager и интегрируйте его с Prometheus.
 
+![](img/1.png)
+![](img/2.png)
 ![](img/20.png)
+![](img/3.png)
+![](img/4.png)
+![](img/10.png)
+![](img/11.png)
 
 *Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.*
 
